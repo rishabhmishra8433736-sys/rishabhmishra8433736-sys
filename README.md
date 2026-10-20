@@ -145,7 +145,7 @@ Explore my activity: All repositories · Contributions · Starred repositories �
   <summary><strong> View live GitHub statistics</strong></summary>
   <br />
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rishabhmishra8433736-sys&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub profile statistics for Rishabh Mishra" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rishabhmishra8433736-sys&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub profile statistics for My" />
   </p>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhmishra8433736-sys&layout=compact&theme=tokyonight&hide_border=true" alt="Language usage across my public GitHub repositories" />
