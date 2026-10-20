@@ -9,7 +9,7 @@
 
 </p>
 
-<h2 align="center">Hi, I'm Rishabh Mishra 👋</h2>
+<h2 align="center">Hi, I'm Rishabh Mishra </h2>
 
 <p align="center">
   <strong>Computer Science (AI) Student · Software Developer · AI/ML Enthusiast</strong>
@@ -35,26 +35,26 @@
   <a href="#-connect">Connect</a>
 </p>
 
-👨‍💻 About Me
+ About Me
 I'm Rishabh Mishra, a B.Tech Computer Science (Artificial Intelligence) student who enjoys turning real-world challenges into practical software. I work across web development, data systems, and AI/ML, with a particular interest in intelligent applications and predictive technology.
 - Build: Responsive applications and backend-enabled products
 - Explore: Artificial intelligence, machine learning, and data visualization
 - Engineer: Database-backed systems, caching, streaming, and containerized workflows
 - Practice: Java, Python, algorithms, and problem-solving
-🚀 Featured Projects
-🌫️ Aeropulse-IQ
+   Featured Projects
+Aeropulse-IQ
 An AI-focused air-pollution monitoring project exploring air-quality insights, location-based data, analytics, and prediction through a web dashboard.
 
 Focus: Environmental technology · Web dashboards · Data insights
 
 View repository →
-🌾 KISAN-QUEUE
+ KISAN-QUEUE
 A smart agricultural-procurement platform concept supporting farmer registration, queue management, transport coordination, and transparent market operations.
 
 Focus: Agricultural technology · Procurement workflows · Transport coordination
 
 View repository →
-✈️ PRATIRUP
+ PRATIRUP
 Predictive Real-time Analytics & Twin for Intelligent Reliability & UAV Propulsion. A digital-twin project concept focused on engine-health monitoring, anomaly detection, and predictive maintenance.
 
 Focus: Digital twins · Predictive analytics · Reliability engineering
@@ -62,7 +62,7 @@ Focus: Digital twins · Predictive analytics · Reliability engineering
 Repository created; public source and documentation have not yet been published.
 
 View repository →
-🧰 Tech Stack
+ Tech Stack
 <p align="center"><em>The languages and tools I use or am learning across my projects.</em></p>
 
 Web Development & Programming
@@ -122,7 +122,7 @@ Design & Collaboration
 
 <p align="center"><sub>Canva · GitHub</sub></p>
 
-⚡ GitHub at a Glance
+ GitHub at a Glance
 <p align="center">
   <a href="https://github.com/rishabhmishra8433736-sys?tab=repositories"><img src="https://img.shields.io/badge/Public_Repositories-4-123650?style=flat-square&logo=github&logoColor=white" alt="4 public repositories, checked 20 October 2026" /></a>
   &nbsp;
@@ -134,15 +134,15 @@ Design & Collaboration
 A quick look at what I'm building, learning, and sharing. Repository counts are a snapshot from 20 October 2026, not a live counter.
 
 Focus	What you'll find
-🚀 Featured projects	Aeropulse-IQ · KISAN-QUEUE · PRATIRUP
-🧠 AI & data	Predictive systems, digital twins, PyTorch, Pandas, and data visualization
-⚙️ Engineering	Java, Python, web development, Kafka, Docker, databases, and caching
-📚 Current focus	DSA, machine learning, system design, and shipping stronger project demos
+ Featured projects	Aeropulse-IQ · KISAN-QUEUE · PRATIRUP
+ AI & data	Predictive systems, digital twins, PyTorch, Pandas, and data visualization
+ Engineering	Java, Python, web development, Kafka, Docker, databases, and caching
+ Current focus	DSA, machine learning, system design, and shipping stronger project demos
 
 
 Explore my activity: All repositories · Contributions · Starred repositories · LeetCode
 <details>
-  <summary><strong>📊 View live GitHub statistics</strong></summary>
+  <summary><strong> View live GitHub statistics</strong></summary>
   <br />
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=rishabhmishra8433736-sys&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub profile statistics for Rishabh Mishra" />
@@ -157,12 +157,12 @@ Explore my activity: All repositories · Contributions · Starred repositories �
      paste the image snippet from SETUP.md beneath this section.
      The snake is deliberately hidden until generated to avoid broken images. -->
 
-🎯 What I'm Focused On
+ What I'm Focused On
 - Problem-solving: Stronger DSA fundamentals and clear, efficient code
 - AI/ML: Designing, evaluating, and understanding predictive models
 - Software engineering: Building reliable applications from UI to backend
 - Systems: Learning how Kafka, Docker, PostgreSQL, MongoDB, and Redis fit together
-🤝 Connect With Me
+ Connect With Me
 <p align="center">
   <a href="https://github.com/rishabhmishra8433736-sys" title="GitHub — rishabhmishra8433736-sys"><img src="https://img.shields.io/badge/GitHub-14263C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
   &nbsp;
