@@ -190,9 +190,9 @@ A smart agricultural-procurement platform concept supporting farmer registration
 
 <p align="center">
   <!-- These badges are intentionally not linked until Rishabh adds his own Instagram handle and email. -->
-  <img src="https://img.shields.io/badge/Instagram-Add%20handle-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram — handle to be added" />
+  <img src="https://img.shields.io/badge/Instagram-Add%20handle-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/shivang_2789?srtk=OW0zMXJjbDhsZjEz" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Email-Add%20address-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email — address to be added" />
+  <img src="https://img.shields.io/badge/Email-Add%20address-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rishabhmishra8433736@gmail.com" />
 </p>
 
 <p align="center"><sub>Instagram and email badges will become clickable once you add your own IDs. See <code>SETUP.md</code>.</sub></p>
