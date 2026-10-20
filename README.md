@@ -7,7 +7,7 @@
 -->
 ![Rishabh Mishra](head.png)
 
-<h2 align="center">Hi, I'm Rishabh Mishra </h2>
+<h2 align="center">Hi, I'm Rishabh Mishra 👋</h2>
 
 <p align="center">
   <strong>Computer Science (AI) Student · Software Developer · AI/ML Enthusiast</strong>
@@ -33,37 +33,55 @@
   <a href="#-connect">Connect</a>
 </p>
 
- About Me<br>
-I'm Rishabh Mishra, a B.Tech Computer Science (Artificial Intelligence) student who enjoys turning real-world challenges into practical software. I work across web development, data systems, and AI/ML, with a particular interest in intelligent applications and predictive technology.
-- Build: Responsive applications and backend-enabled products
-- Explore: Artificial intelligence, machine learning, and data visualization
-- Engineer: Database-backed systems, caching, streaming, and containerized workflows
-- Practice: Java, Python, algorithms, and problem-solving
-   Featured Projects
-🌫️ Aeropulse-IQ
+---
+
+## 👨‍💻 About Me
+
+I'm **Rishabh Mishra**, a B.Tech Computer Science (Artificial Intelligence) student who enjoys turning real-world challenges into practical software. I work across web development, data systems, and AI/ML, with a particular interest in intelligent applications and predictive technology.
+
+- **Build:** Responsive applications and backend-enabled products
+- **Explore:** Artificial intelligence, machine learning, and data visualization
+- **Engineer:** Database-backed systems, caching, streaming, and containerized workflows
+- **Practice:** Java, Python, algorithms, and problem-solving
+
+---
+
+## 🚀 Featured Projects
+
+### 🌫️ [Aeropulse-IQ](https://github.com/rishabhmishra8433736-sys/Aeropulse-IQ)
+
 An AI-focused air-pollution monitoring project exploring air-quality insights, location-based data, analytics, and prediction through a web dashboard.
 
-Focus: Environmental technology · Web dashboards · Data insights
+**Focus:** Environmental technology · Web dashboards · Data insights
 
-View repository →
- KISAN-QUEUE
+[View repository →](https://github.com/rishabhmishra8433736-sys/Aeropulse-IQ)
+
+### 🌾 [KISAN-QUEUE](https://github.com/rishabhmishra8433736-sys/KISAN-QUEUE)
+
 A smart agricultural-procurement platform concept supporting farmer registration, queue management, transport coordination, and transparent market operations.
 
-Focus: Agricultural technology · Procurement workflows · Transport coordination
+**Focus:** Agricultural technology · Procurement workflows · Transport coordination
 
-View repository →
-PRATIRUP
-Predictive Real-time Analytics & Twin for Intelligent Reliability & UAV Propulsion. A digital-twin project concept focused on engine-health monitoring, anomaly detection, and predictive maintenance.
+[View repository →](https://github.com/rishabhmishra8433736-sys/KISAN-QUEUE)
 
-Focus: Digital twins · Predictive analytics · Reliability engineering
+### ✈️ [PRATIRUP](https://github.com/rishabhmishra8433736-sys/PRATIRUP)
 
-Repository created; public source and documentation have not yet been published.
+**Predictive Real-time Analytics & Twin for Intelligent Reliability & UAV Propulsion.** A digital-twin project concept focused on engine-health monitoring, anomaly detection, and predictive maintenance.
 
-View repository →
- Tech Stack
+**Focus:** Digital twins · Predictive analytics · Reliability engineering
+
+*Repository created; public source and documentation have not yet been published.*
+
+[View repository →](https://github.com/rishabhmishra8433736-sys/PRATIRUP)
+
+---
+
+## 🧰 Tech Stack
+
 <p align="center"><em>The languages and tools I use or am learning across my projects.</em></p>
 
-Web Development & Programming
+### Web Development & Programming
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="42" height="42" />
   &nbsp;&nbsp;
@@ -78,7 +96,8 @@ Web Development & Programming
 
 <p align="center"><sub>HTML5 · CSS3 · JavaScript · Java · Python</sub></p>
 
-Streaming, Containers & DevOps
+### Streaming, Containers & DevOps
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" title="Apache Kafka" width="42" height="42" />
   &nbsp;&nbsp;
@@ -87,7 +106,8 @@ Streaming, Containers & DevOps
 
 <p align="center"><sub>Apache Kafka · Docker · Docker Compose</sub></p>
 
-Databases & Caching
+### Databases & Caching
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="42" height="42" />
   &nbsp;&nbsp;
@@ -98,7 +118,8 @@ Databases & Caching
 
 <p align="center"><sub>MongoDB · PostgreSQL · Redis</sub></p>
 
-AI, Machine Learning & Data
+### AI, Machine Learning & Data
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="42" height="42" />
   &nbsp;&nbsp;
@@ -111,7 +132,8 @@ AI, Machine Learning & Data
 
 <p align="center"><sub>PyTorch · Pandas · Matplotlib · Scikit-learn</sub></p>
 
-Design & Collaboration
+### Design & Collaboration
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" title="Canva" width="42" height="42" />
   &nbsp;&nbsp;
@@ -120,12 +142,16 @@ Design & Collaboration
 
 <p align="center"><sub>Canva · GitHub</sub></p>
 
-⚡ GitHub at a Glance
-What I'm building: AI-powered web applications, practical software systems, and prototype solutions for real problems.
+---
 
-What I'm learning: Model development, data analysis, streaming architectures, containerized development, and reliable databases.
+## ⚡ GitHub at a Glance
 
-Where to explore: Repositories · Contribution history · Starred projects · LeetCode
+**What I'm building:** AI-powered web applications, practical software systems, and prototype solutions for real problems.
+
+**What I'm learning:** Model development, data analysis, streaming architectures, containerized development, and reliable databases.
+
+**Where to explore:** [Repositories](https://github.com/rishabhmishra8433736-sys?tab=repositories) · [Contribution history](https://github.com/rishabhmishra8433736-sys) · [Starred projects](https://github.com/rishabhmishra8433736-sys?tab=stars) · [LeetCode](https://leetcode.com/u/RishabhSep22/)
+
 <details>
   <summary><strong>📊 Expand live GitHub statistics</strong></summary>
   <br />
@@ -141,12 +167,19 @@ Where to explore: Repositories · Contribution history · Starred projects · Le
      paste the image snippet from SETUP.md into the GitHub Activity section.
      It is deliberately absent for now to avoid a broken image. -->
 
- What I'm Focused On
-- Problem-solving: Stronger DSA fundamentals and clear, efficient code
-- AI/ML: Designing, evaluating, and understanding predictive models
-- Software engineering: Building reliable applications from UI to backend
-- Systems: Learning how Kafka, Docker, PostgreSQL, MongoDB, and Redis fit together
-   Connect With Me
+---
+
+## 🎯 What I'm Focused On
+
+- **Problem-solving:** Stronger DSA fundamentals and clear, efficient code
+- **AI/ML:** Designing, evaluating, and understanding predictive models
+- **Software engineering:** Building reliable applications from UI to backend
+- **Systems:** Learning how Kafka, Docker, PostgreSQL, MongoDB, and Redis fit together
+
+---
+
+## 🤝 Connect With Me
+
 <p align="center">
   <a href="https://github.com/rishabhmishra8433736-sys" title="GitHub — rishabhmishra8433736-sys"><img src="https://img.shields.io/badge/GitHub-14263C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
   &nbsp;
@@ -157,10 +190,12 @@ Where to explore: Repositories · Contribution history · Starred projects · Le
 
 <p align="center">
   <!-- These badges are intentionally not linked until Rishabh adds his own Instagram handle and email. -->
-  <img src="https://img.shields.io/badge/Instagram-https://www.instagram.com/shivang_2789?srtk=OW0zMXJjbDhsZjEz?style=for-the-badge&logo=instagram&logoColor=white"  />
+  <img src="https://img.shields.io/badge/Instagram-Add%20handle-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram — handle to be added" />
   &nbsp;
-  <img src="https://img.shields.io/badge/rishabhmishra8433736@gmail.com?style=for-the-badge&logo=gmail&logoColor=white" alt="Email — address to be added" />
+  <img src="https://img.shields.io/badge/Email-Add%20address-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email — address to be added" />
 </p>
+
+<p align="center"><sub>Instagram and email badges will become clickable once you add your own IDs. See <code>SETUP.md</code>.</sub></p>
 
 <p align="center"><sub>Building with curiosity. Improving with every commit.</sub></p>
 
