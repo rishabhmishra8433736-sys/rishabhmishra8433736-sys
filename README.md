@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="./assets/header.png" alt="Rishabh Mishra | Software, AI & ML, Systems" width="100%" />
+  <img src="head.png" alt="Rishabh Mishra | Software, AI & ML, Systems" width="100%" />
 </p>
 
 <h3 align="center">Hi, I'm Rishabh Mishra 👋</h3>
