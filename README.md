@@ -7,6 +7,8 @@
 -->
 ![Rishabh Mishra](head.png)
 
+</p>
+
 <h2 align="center">Hi, I'm Rishabh Mishra 👋</h2>
 
 <p align="center">
@@ -33,55 +35,37 @@
   <a href="#-connect">Connect</a>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-I'm **Rishabh Mishra**, a B.Tech Computer Science (Artificial Intelligence) student who enjoys turning real-world challenges into practical software. I work across web development, data systems, and AI/ML, with a particular interest in intelligent applications and predictive technology.
-
-- **Build:** Responsive applications and backend-enabled products
-- **Explore:** Artificial intelligence, machine learning, and data visualization
-- **Engineer:** Database-backed systems, caching, streaming, and containerized workflows
-- **Practice:** Java, Python, algorithms, and problem-solving
-
----
-
-## 🚀 Featured Projects
-
-### 🌫️ [Aeropulse-IQ](https://github.com/rishabhmishra8433736-sys/Aeropulse-IQ)
-
+👨‍💻 About Me
+I'm Rishabh Mishra, a B.Tech Computer Science (Artificial Intelligence) student who enjoys turning real-world challenges into practical software. I work across web development, data systems, and AI/ML, with a particular interest in intelligent applications and predictive technology.
+- Build: Responsive applications and backend-enabled products
+- Explore: Artificial intelligence, machine learning, and data visualization
+- Engineer: Database-backed systems, caching, streaming, and containerized workflows
+- Practice: Java, Python, algorithms, and problem-solving
+🚀 Featured Projects
+🌫️ Aeropulse-IQ
 An AI-focused air-pollution monitoring project exploring air-quality insights, location-based data, analytics, and prediction through a web dashboard.
 
-**Focus:** Environmental technology · Web dashboards · Data insights
+Focus: Environmental technology · Web dashboards · Data insights
 
-[View repository →](https://github.com/rishabhmishra8433736-sys/Aeropulse-IQ)
-
-### 🌾 [KISAN-QUEUE](https://github.com/rishabhmishra8433736-sys/KISAN-QUEUE)
-
+View repository →
+🌾 KISAN-QUEUE
 A smart agricultural-procurement platform concept supporting farmer registration, queue management, transport coordination, and transparent market operations.
 
-**Focus:** Agricultural technology · Procurement workflows · Transport coordination
+Focus: Agricultural technology · Procurement workflows · Transport coordination
 
-[View repository →](https://github.com/rishabhmishra8433736-sys/KISAN-QUEUE)
+View repository →
+✈️ PRATIRUP
+Predictive Real-time Analytics & Twin for Intelligent Reliability & UAV Propulsion. A digital-twin project concept focused on engine-health monitoring, anomaly detection, and predictive maintenance.
 
-### ✈️ [PRATIRUP](https://github.com/rishabhmishra8433736-sys/PRATIRUP)
+Focus: Digital twins · Predictive analytics · Reliability engineering
 
-**Predictive Real-time Analytics & Twin for Intelligent Reliability & UAV Propulsion.** A digital-twin project concept focused on engine-health monitoring, anomaly detection, and predictive maintenance.
+Repository created; public source and documentation have not yet been published.
 
-**Focus:** Digital twins · Predictive analytics · Reliability engineering
-
-*Repository created; public source and documentation have not yet been published.*
-
-[View repository →](https://github.com/rishabhmishra8433736-sys/PRATIRUP)
-
----
-
-## 🧰 Tech Stack
-
+View repository →
+🧰 Tech Stack
 <p align="center"><em>The languages and tools I use or am learning across my projects.</em></p>
 
-### Web Development & Programming
-
+Web Development & Programming
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="42" height="42" />
   &nbsp;&nbsp;
@@ -96,8 +80,7 @@ A smart agricultural-procurement platform concept supporting farmer registration
 
 <p align="center"><sub>HTML5 · CSS3 · JavaScript · Java · Python</sub></p>
 
-### Streaming, Containers & DevOps
-
+Streaming, Containers & DevOps
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" alt="Apache Kafka" title="Apache Kafka" width="42" height="42" />
   &nbsp;&nbsp;
@@ -106,8 +89,7 @@ A smart agricultural-procurement platform concept supporting farmer registration
 
 <p align="center"><sub>Apache Kafka · Docker · Docker Compose</sub></p>
 
-### Databases & Caching
-
+Databases & Caching
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="42" height="42" />
   &nbsp;&nbsp;
@@ -118,8 +100,7 @@ A smart agricultural-procurement platform concept supporting farmer registration
 
 <p align="center"><sub>MongoDB · PostgreSQL · Redis</sub></p>
 
-### AI, Machine Learning & Data
-
+AI, Machine Learning & Data
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="42" height="42" />
   &nbsp;&nbsp;
@@ -132,8 +113,7 @@ A smart agricultural-procurement platform concept supporting farmer registration
 
 <p align="center"><sub>PyTorch · Pandas · Matplotlib · Scikit-learn</sub></p>
 
-### Design & Collaboration
-
+Design & Collaboration
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" title="Canva" width="42" height="42" />
   &nbsp;&nbsp;
@@ -142,44 +122,47 @@ A smart agricultural-procurement platform concept supporting farmer registration
 
 <p align="center"><sub>Canva · GitHub</sub></p>
 
----
+⚡ GitHub at a Glance
+<p align="center">
+  <a href="https://github.com/rishabhmishra8433736-sys?tab=repositories"><img src="https://img.shields.io/badge/Public_Repositories-4-123650?style=flat-square&logo=github&logoColor=white" alt="4 public repositories, checked 20 October 2026" /></a>
+  &nbsp;
+  <a href="https://github.com/rishabhmishra8433736-sys?tab=repositories"><img src="https://img.shields.io/badge/Featured_Projects-3-087FAB?style=flat-square&logo=github&logoColor=white" alt="3 featured projects" /></a>
+  &nbsp;
+  <a href="https://leetcode.com/u/RishabhSep22/"><img src="https://img.shields.io/badge/Problem_Solving-LeetCode-F1A33C?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode problem solving profile" /></a>
+</p>
 
-## ⚡ GitHub at a Glance
+A quick look at what I'm building, learning, and sharing. Repository counts are a snapshot from 20 October 2026, not a live counter.
 
-**What I'm building:** AI-powered web applications, practical software systems, and prototype solutions for real problems.
+Focus	What you'll find
+🚀 Featured projects	Aeropulse-IQ · KISAN-QUEUE · PRATIRUP
+🧠 AI & data	Predictive systems, digital twins, PyTorch, Pandas, and data visualization
+⚙️ Engineering	Java, Python, web development, Kafka, Docker, databases, and caching
+📚 Current focus	DSA, machine learning, system design, and shipping stronger project demos
 
-**What I'm learning:** Model development, data analysis, streaming architectures, containerized development, and reliable databases.
 
-**Where to explore:** [Repositories](https://github.com/rishabhmishra8433736-sys?tab=repositories) · [Contribution history](https://github.com/rishabhmishra8433736-sys) · [Starred projects](https://github.com/rishabhmishra8433736-sys?tab=stars) · [LeetCode](https://leetcode.com/u/RishabhSep22/)
-
+Explore my activity: All repositories · Contributions · Starred repositories · LeetCode
 <details>
-  <summary><strong>📊 Expand live GitHub statistics</strong></summary>
+  <summary><strong>📊 View live GitHub statistics</strong></summary>
   <br />
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rishabhmishra8433736-sys&show_icons=true&theme=tokyonight&hide_border=true" width="460" alt="GitHub profile statistics" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rishabhmishra8433736-sys&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub profile statistics for Rishabh Mishra" />
   </p>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhmishra8433736-sys&layout=compact&theme=tokyonight&hide_border=true" width="345" alt="GitHub repository language breakdown" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhmishra8433736-sys&layout=compact&theme=tokyonight&hide_border=true" alt="Language usage across Rishabh Mishra's public GitHub repositories" />
   </p>
+  <p align="center"><sub>Stats are provided by an external service and might occasionally fail to load.</sub></p>
 </details>
 
 <!-- OPTIONAL SNAKE: After running .github/workflows/snake.yml successfully,
-     paste the image snippet from SETUP.md into the GitHub Activity section.
-     It is deliberately absent for now to avoid a broken image. -->
+     paste the image snippet from SETUP.md beneath this section.
+     The snake is deliberately hidden until generated to avoid broken images. -->
 
----
-
-## 🎯 What I'm Focused On
-
-- **Problem-solving:** Stronger DSA fundamentals and clear, efficient code
-- **AI/ML:** Designing, evaluating, and understanding predictive models
-- **Software engineering:** Building reliable applications from UI to backend
-- **Systems:** Learning how Kafka, Docker, PostgreSQL, MongoDB, and Redis fit together
-
----
-
-## 🤝 Connect With Me
-
+🎯 What I'm Focused On
+- Problem-solving: Stronger DSA fundamentals and clear, efficient code
+- AI/ML: Designing, evaluating, and understanding predictive models
+- Software engineering: Building reliable applications from UI to backend
+- Systems: Learning how Kafka, Docker, PostgreSQL, MongoDB, and Redis fit together
+🤝 Connect With Me
 <p align="center">
   <a href="https://github.com/rishabhmishra8433736-sys" title="GitHub — rishabhmishra8433736-sys"><img src="https://img.shields.io/badge/GitHub-14263C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
   &nbsp;
@@ -189,13 +172,14 @@ A smart agricultural-procurement platform concept supporting farmer registration
 </p>
 
 <p align="center">
-  <!-- These badges are intentionally not linked until Rishabh adds his own Instagram handle and email. -->
-  <img src="https://img.shields.io/badge/Instagram-Add%20handle-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/shivang_2789?srtk=OW0zMXJjbDhsZjEz" />
+  <a href="https://www.instagram.com/shivang_2789/" title="Instagram — @shivang_2789">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @shivang_2789" />
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Email-Add%20address-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rishabhmishra8433736@gmail.com" />
+  <a href="mailto:rishabhmishra8433736@gmail.com" title="Email — rishabhmishra8433736@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rishabh Mishra" />
+  </a>
 </p>
-
-<p align="center"><sub>Instagram and email badges will become clickable once you add your own IDs. See <code>SETUP.md</code>.</sub></p>
 
 <p align="center"><sub>Building with curiosity. Improving with every commit.</sub></p>
 
