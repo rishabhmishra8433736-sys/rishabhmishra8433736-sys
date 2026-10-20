@@ -5,10 +5,7 @@
   All visuals are static GitHub-compatible assets or normal image embeds.
   The generated contribution snake is intentionally not shown until activated.
 -->
-
-<p align="center">
-  <img src="./head.png" width="100%"  />
-</p>
+![Rishabh Mishra](head.png)
 
 <h2 align="center">Hi, I'm Rishabh Mishra 👋</h2>
 
