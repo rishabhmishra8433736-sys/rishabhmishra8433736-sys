@@ -12,8 +12,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=34C6DD&center=true&vCenter=true&width=580&lines=Learning+by+building+real+projects;Java+%7C+Python+%7C+JavaScript;Kafka+%7C+Docker+%7C+Databases;Machine+Learning+%7C+Data+Science" alt="Areas of interest animated typing" width="85%" />
 </p>
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-173B56?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" /></a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=overview"><img src="https://img.shields.io/badge/GitHub_Activity-086F81?style=for-the-badge&logo=githubactions&logoColor=white" alt="View activity" /></a>
+  <a href="https://github.com/rishabhmishra8433736-sys?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-173B56?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" /></a>
+  <a href="https://github.com/rishabhmishra8433736-sys?tab=overview"><img src="https://img.shields.io/badge/GitHub_Activity-086F81?style=for-the-badge&logo=githubactions&logoColor=white" alt="View activity" /></a>
 </p>
 
 ---
@@ -36,11 +36,11 @@ I'm **Rishabh Mishra**, a developer focused on turning ideas into useful softwar
 **Exploring:** Machine learning with PyTorch and Scikit-learn, data visualization using Pandas and Matplotlib, Docker Compose, PostgreSQL, MongoDB and Redis.
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">Repositories</a>
+  <a href="https://github.com/rishabhmishra8433736-sys?tab=repositories">Repositories</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=overview">Contributions</a>
+  <a href="https://github.com/rishabhmishra8433736-sys?tab=overview">Contributions</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=stars">Starred</a>
+  <a href="https://github.com/rishabhmishra8433736-sys?tab=stars">Starred</a>
 </p>
 
 ## 🧰 Tech Stack
@@ -99,16 +99,16 @@ I'm **Rishabh Mishra**, a developer focused on turning ideas into useful softwar
 
 ## 📈 GitHub Activity
 
-<p align="center">My live repositories and contribution history are available on <a href="https://github.com/YOUR_GITHUB_USERNAME">my GitHub profile</a>.</p>
+<p align="center">My live repositories and contribution history are available on <a href="https://github.com/rishabhmishra8433736-sys">my GitHub profile</a>.</p>
 
 <details>
 <summary><strong>Show live GitHub statistics (optional)</strong></summary>
 <br />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" width="470" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabhmishra8433736-sys&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" width="470" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used repository languages" width="360" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhmishra8433736-sys&layout=compact&theme=tokyonight&hide_border=true" alt="Most used repository languages" width="360" />
 </p>
 </details>
 
