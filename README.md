@@ -148,9 +148,9 @@ Explore my activity: All repositories · Contributions · Starred repositories �
     <img src="https://github-readme-stats.vercel.app/api?username=rishabhmishra8433736-sys&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub profile statistics for Rishabh Mishra" />
   </p>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhmishra8433736-sys&layout=compact&theme=tokyonight&hide_border=true" alt="Language usage across Rishabh Mishra's public GitHub repositories" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhmishra8433736-sys&layout=compact&theme=tokyonight&hide_border=true" alt="Language usage across my public GitHub repositories" />
   </p>
-  <p align="center"><sub>Stats are provided by an external service and might occasionally fail to load.</sub></p>
+  <p align="center"><sub></p>
 </details>
 
 <!-- OPTIONAL SNAKE: After running .github/workflows/snake.yml successfully,
