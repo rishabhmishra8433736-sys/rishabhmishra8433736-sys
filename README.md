@@ -7,7 +7,7 @@
 -->
 
 <p align="center">
-  <img src="./head.png" width="100%" alt="Rishabh Mishra header banner - software, AI and systems" />
+  <img src="./head.png" width="100%"  />
 </p>
 
 <h2 align="center">Hi, I'm Rishabh Mishra 👋</h2>
