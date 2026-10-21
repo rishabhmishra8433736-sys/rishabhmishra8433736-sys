@@ -5,9 +5,10 @@
   All visuals are static GitHub-compatible assets or normal image embeds.
   The generated contribution snake is intentionally not shown until activated.
 -->
+<p align="center"><img src="assets/animated-header.svg" width="100%" alt="Animated Rishabh Mishra header" /></p>
+
 ![Rishabh Mishra](head.png)
 
-</p>
 
 <h2 align="center">Hi, I'm Rishabh Mishra </h2>
 
@@ -35,13 +36,13 @@
   <a href="#-connect">Connect</a>
 </p>
 
- About Me
+## ◈ About Me
 I'm Rishabh Mishra, a B.Tech Computer Science (Artificial Intelligence) student who enjoys turning real-world challenges into practical software. I work across web development, data systems, and AI/ML, with a particular interest in intelligent applications and predictive technology.
 - Build: Responsive applications and backend-enabled products
 - Explore: Artificial intelligence, machine learning, and data visualization
 - Engineer: Database-backed systems, caching, streaming, and containerized workflows
 - Practice: Java, Python, algorithms, and problem-solving
-   Featured Projects
+## ◈ Featured Projects
 Aeropulse-IQ
 An AI-focused air-pollution monitoring project exploring air-quality insights, location-based data, analytics, and prediction through a web dashboard.
 
@@ -62,7 +63,7 @@ Focus: Digital twins · Predictive analytics · Reliability engineering
 Repository created; public source and documentation have not yet been published.
 
 View repository →
- Tech Stack
+## ◈ Tech Stack
 <p align="center"><em>The languages and tools I use or am learning across my projects.</em></p>
 
 Web Development & Programming
@@ -122,7 +123,7 @@ Design & Collaboration
 
 <p align="center"><sub>Canva · GitHub</sub></p>
 
- GitHub at a Glance
+## ◈ GitHub at a Glance
 <p align="center">
   <a href="https://github.com/rishabhmishra8433736-sys?tab=repositories"><img src="https://img.shields.io/badge/Public_Repositories-4-123650?style=flat-square&logo=github&logoColor=white" alt="4 public repositories, checked 20 October 2026" /></a>
   &nbsp;
@@ -149,19 +150,37 @@ Explore my activity: All repositories · Contributions · Starred repositories �
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhmishra8433736-sys&layout=compact&theme=tokyonight&hide_border=true" alt="Language usage across my public GitHub repositories" />
   </p>
-  <p align="center"><sub></p>
+  <p align="center"><sub>Live cards are provided by external services.</sub></p>
 </details>
 
-<!-- OPTIONAL SNAKE: After running .github/workflows/snake.yml successfully,
-     paste the image snippet from SETUP.md beneath this section.
-     The snake is deliberately hidden until generated to avoid broken images. -->
+<!-- Contribution snake workflow: .github/workflows/contribution-snake.yml -->
 
- What I'm Focused On
+
+### ◈ Contribution Analytics
+
+<p align="center">
+  <img width="85%" src="https://streak-stats.demolab.com/?user=rishabhmishra8433736-sys&amp;theme=tokyonight&amp;hide_border=true" alt="Rishabh Mishra contribution streak" />
+</p>
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhmishra8433736-sys&amp;bg_color=0B1830&amp;color=CFECF6&amp;line=31C5DA&amp;point=98EAF2&amp;area=true&amp;hide_border=true" alt="Rishabh Mishra contribution activity chart" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rishabhmishra8433736-sys&amp;label=Profile%20views&amp;color=087FAB&amp;style=flat-square" alt="GitHub profile visitor count" />
+</p>
+
+### ◈ Contribution Snake
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/rishabhmishra8433736-sys/rishabhmishra8433736-sys/output/rishabh-snake.svg" alt="GitHub contribution snake animation (available after first successful workflow run)" />
+</p>
+<p align="center"><sub>The snake appears after the contribution-snake GitHub Actions workflow succeeds for the first time.</sub></p>
+
+## ◈ What I'm Focused On
 - Problem-solving: Stronger DSA fundamentals and clear, efficient code
 - AI/ML: Designing, evaluating, and understanding predictive models
 - Software engineering: Building reliable applications from UI to backend
 - Systems: Learning how Kafka, Docker, PostgreSQL, MongoDB, and Redis fit together
- Connect With Me
+## ◈ Connect With Me
 <p align="center">
   <a href="https://github.com/rishabhmishra8433736-sys" title="GitHub — rishabhmishra8433736-sys"><img src="https://img.shields.io/badge/GitHub-14263C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
   &nbsp;
@@ -184,5 +203,6 @@ Explore my activity: All repositories · Contributions · Starred repositories �
 
 <!-- Only the footer has blinking stars. Keep this as the final visual. -->
 <p align="center">
-  <img src="./assets/blinking-stars-footer.gif" width="100%" alt="Thank you for visiting Rishabh Mishra's GitHub — animated blinking stars" />
+  <img src="./assets/blinking-stars-footer.svg" width="100%" alt="Thank you for visiting Rishabh Mishra's GitHub — animated blinking stars" />
 </p>
+
