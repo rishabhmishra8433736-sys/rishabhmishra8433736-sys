@@ -80,7 +80,7 @@ Web Development & Programming
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="42" height="42" />
 </p>
 
-<p align="center"><sub>HTML5 · CSS3 · JavaScript · Java · Python</sub></p>
+<p align="center"><sub>HTML5 · CSS3 · JavaScript · Java · C . Python</sub></p>
 
 Streaming, Containers & DevOps
 <p align="center">
@@ -123,7 +123,7 @@ Design & Collaboration
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"alt="Vercel" title="Vercel" width="42" height="42" />
 </p>
 
-<p align="center"><sub>Canva · GitHub</sub></p>
+<p align="center"><sub>Canva · GitHub . Vercel</sub></p>
 
 ## ◈ GitHub at a Glance
 <p align="center">
