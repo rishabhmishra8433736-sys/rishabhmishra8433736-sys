@@ -5,7 +5,6 @@
   All visuals are static GitHub-compatible assets or normal image embeds.
   The generated contribution snake is intentionally not shown until activated.
 -->
-<p align="center"><img src="animated-header.svg" width="100%" alt="Animated Rishabh Mishra header" /></p>
 
 ![Rishabh Mishra](head.png)
 
