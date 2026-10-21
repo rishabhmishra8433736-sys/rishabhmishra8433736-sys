@@ -5,7 +5,7 @@
   All visuals are static GitHub-compatible assets or normal image embeds.
   The generated contribution snake is intentionally not shown until activated.
 -->
-<p align="center"><img src="assets/animated-header.svg" width="100%" alt="Animated Rishabh Mishra header" /></p>
+<p align="center"><img src="animated-header.svg" width="100%" alt="Animated Rishabh Mishra header" /></p>
 
 ![Rishabh Mishra](head.png)
 
@@ -203,6 +203,6 @@ Explore my activity: All repositories · Contributions · Starred repositories �
 
 <!-- Only the footer has blinking stars. Keep this as the final visual. -->
 <p align="center">
-  <img src="./assets/blinking-stars-footer.svg" width="100%" alt="Thank you for visiting Rishabh Mishra's GitHub — animated blinking stars" />
+  <img src="blinking-stars-footer.svg" width="100%" alt="Thank you for visiting Rishabh Mishra's GitHub — animated blinking stars" />
 </p>
 
