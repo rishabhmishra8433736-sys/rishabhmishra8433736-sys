@@ -74,7 +74,7 @@ Web Development & Programming
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="42" height="42" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" title="Java" width="42" height="42" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;![C](https://img.shields.io/badge/C-070B14?style=for-the-badge&logo=c&logoColor=00E5FF)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="42" height="42" />
 </p>
 
