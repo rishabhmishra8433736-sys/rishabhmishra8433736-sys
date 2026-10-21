@@ -131,8 +131,7 @@ Design & Collaboration
   <a href="https://leetcode.com/u/RishabhSep22/"><img src="https://img.shields.io/badge/Problem_Solving-LeetCode-F1A33C?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode problem solving profile" /></a>
 </p>
 
-A quick look at what I'm building, learning, and sharing. Repository counts are a snapshot from 20 October 2026, not a live counter.
-
+A quick look at what I'm building, learning, and sharing. 
 Focus	What you'll find
  Featured projects	Aeropulse-IQ · KISAN-QUEUE · PRATIRUP
  AI & data	Predictive systems, digital twins, PyTorch, Pandas, and data visualization
