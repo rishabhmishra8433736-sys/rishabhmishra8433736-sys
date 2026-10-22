@@ -24,7 +24,7 @@
   &nbsp;
   <a href="https://www.linkedin.com/in/rishabh-mishra-b34919384/"><img src="https://img.shields.io/badge/LinkedIn-087FAB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="https://leetcode.com/u/RishabhSep22/"><img src="https://img.shields.io/badge/LeetCode-263D59?style=for-the-badge&logo=leetcode&logoColor=F9B949" alt="LeetCode" /></a>
+  <a href="https://leetcode.com/u//"><img src="https://img.shields.io/badge/LeetCode-263D59?style=for-the-badge&logo=leetcode&logoColor=F9B949" alt="LeetCode" /></a>
 </p>
 
 <p align="center">
@@ -131,7 +131,7 @@ Design & Collaboration
   &nbsp;
   <a href="https://github.com/rishabhmishra8433736-sys?tab=repositories"><img src="https://img.shields.io/badge/Featured_Projects-3-087FAB?style=flat-square&logo=github&logoColor=white" alt="3 featured projects" /></a>
   &nbsp;
-  <a href="https://leetcode.com/u/RishabhSep22/"><img src="https://img.shields.io/badge/Problem_Solving-LeetCode-F1A33C?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode problem solving profile" /></a>
+  <a href="https://leetcode.com/u//"><img src="https://img.shields.io/badge/Problem_Solving-LeetCode-F1A33C?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode problem solving profile" /></a>
 </p>
 
 A quick look at what I'm building, learning, and sharing. 
@@ -188,7 +188,7 @@ Explore my activity: All repositories · Contributions · Starred repositories �
   &nbsp;
   <a href="https://www.linkedin.com/in/rishabh-mishra-b34919384/" title="Rishabh Mishra on LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0A77A8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
   &nbsp;
-  <a href="https://leetcode.com/u/RishabhSep22/" title="LeetCode — RishabhSep22"><img src="https://img.shields.io/badge/LeetCode-26354F?style=for-the-badge&logo=leetcode&logoColor=F9B949" alt="LeetCode profile" /></a>
+  <a href="https://leetcode.com/u//" title="LeetCode — RishabhSep22"><img src="https://img.shields.io/badge/LeetCode-26354F?style=for-the-badge&logo=leetcode&logoColor=F9B949" alt="LeetCode profile" /></a>
 </p>
 
 <p align="center">
